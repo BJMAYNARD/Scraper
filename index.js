@@ -6,7 +6,7 @@ const express = require('express')
 const app = express()
 
 
-//Tells the console.log to listen to desird port
+//Tells the console.log to listen to desired port
 app.listen(PORT,() => console.log)
 
 //This is where you do the URL
